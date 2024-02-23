@@ -1,4 +1,4 @@
-# Phylogenetic distribution of SbmA/BacA and BacA-like antimicrobial peptide transporters
+# Taxomonic distribution of SbmA/BacA and BacA-like antimicrobial peptide transporters
 
 Ref to put 
 
